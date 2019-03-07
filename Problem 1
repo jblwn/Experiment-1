@@ -1,0 +1,28 @@
+
+one12-44@cad-pc45 MINGW64 ~
+$ #include < iomanip>
+
+one12-44@cad-pc45 MINGW64 ~
+$
+
+one12-44@cad-pc45 MINGW64 ~
+$ using namespace std;
+bash: using: command not found
+
+one12-44@cad-pc45 MINGW64 ~
+$
+
+one12-44@cad-pc45 MINGW64 ~
+$ int main()
+bash: syntax error near unexpected token `('
+
+one12-44@cad-pc45 MINGW64 ~
+$ {
+>
+> cout << "Premium: $250 * 5750 = " << ' ' << 250 * 5750 << endl;
+> cout << "Box: $100 * 28000 = " << ' ' << 100 * 28000 << endl;
+> cout << "Sideline: $50 * 35750 = " << ' ' << 50 * 35750 << endl;
+> cout << "General Admission: $25 * 18750 = " << ' ' << 25 * 18750 << endl;
+> cout << "Total = " << 1437500 + 2800000 + 1787500 + 468750 << endl;
+> _getch();
+> return 0;
